@@ -1,5 +1,5 @@
 # typescript-axios
-基于typescript重构的axios库
+基于typescript重构的axios
 
 ## 功能实现
 * 基础功能
